@@ -1,7 +1,7 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "𝙻𝙴𝙶𝙴𝙽𝙳 𝙱𝙾𝚃",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY.𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝙄𝙎 𝘼 𝘾𝙊𝙋𝙔 𝙊𝙁 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝙇𝙀𝙂𝙀𝙉𝘿 𝙐𝙎𝙀𝙍𝘽𝙊𝙏. 𝙄 𝙀𝘿𝙄𝙏𝙀𝘿 𝙄𝙏 𝘼𝙎 𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙋𝙐𝙍𝙋𝙊𝙎𝙀𝙎. 𝙎𝙊 𝙄𝙁 𝙔𝙊𝙐 𝙇𝙄𝙆𝙀 𝙐𝙎𝙀 𝙄𝙏.Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/85a68063ace8fd5a28596.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/Itztonystark/J.A.R.V.I.S-BOT/",
+  "website": "https://github.com/Itztonystark/J.A.R.V.I.S-BOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "𝙻𝙴𝙶𝙴𝙽𝙳 𝙱𝙾𝚃Y",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "𝙃𝙚𝙮 𝙈𝙖𝙨𝙩𝙚𝙧 𝙏𝙤𝙣𝙮,𝙔𝙤𝙪𝙧 𝙐𝙨𝙚𝙧𝙗𝙤𝙩 𝙅𝘼𝙍𝙑𝙄𝙎 𝙞𝙨 𝙊𝙣 𝙛𝙞𝙧𝙚 𝙖𝙣𝙙 𝙙𝙤𝙣❜𝙩 𝙬𝙤𝙧𝙧𝙮 𝙄 𝙖𝙢 𝙝𝙚𝙧𝙚 𝙩𝙤 𝙥𝙧𝙤𝙩𝙚𝙘𝙩 𝙮𝙤𝙪 𝙛𝙧𝙤𝙢 𝙛𝙪𝙘𝙠𝙞𝙣𝙜 𝙗𝙖𝙨𝙩𝙖𝙧𝙙𝙨.",
       "required": false
     },
     "ABUSE": {
@@ -100,7 +100,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "𝙷𝙴𝙻𝙻𝙾 𝚂𝙸𝚁. 𝙿𝙻𝙴𝙰𝚂𝙴 𝙳𝙾𝙽'𝚃 𝚂𝙿𝙰𝙼 𝙰𝙽𝙳 𝚆𝙰𝙸𝚃 𝚃𝙸𝙻𝙻 𝙼𝚈 𝙼𝙰𝚂𝚃𝙴𝚁 𝚁𝙴𝙿𝙻𝚈 𝚈𝙾𝚄. 𝙸𝙵 𝚈𝙾𝚄 𝚂𝙿𝙰𝙼 𝙸'𝙻𝙻 𝙱𝙻𝙾𝙲𝙺 𝙰𝙽𝙳 𝚁𝙴𝙿𝙾𝚁𝚃 𝚈𝙾𝚄 𝙰𝚂 𝙰 𝚂𝙿𝙰𝙼𝙼𝙴𝚁 𝙸𝙽 𝚃𝙶 𝚂𝙴𝚁𝚅𝙴𝚁𝚂. 𝙱𝙴𝚃𝚃𝙴𝚁 𝚃𝙾 𝙱𝙴 𝙲𝙰𝚁𝙴𝙵𝚄𝙻. 𝚃𝙷𝙰𝙽𝙺𝚂!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -109,7 +109,7 @@
       "required": true
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
+      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Don't forget to make your group public.",
       "value": "",
       "required": true
     },
@@ -141,7 +141,7 @@
       "value": ""
     }, 
     "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by from http://t.me/Session_Generator_Tony_Bot ",
       "value": ""
     },
     "HEROKU_API_KEY": {
