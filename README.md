@@ -1,11 +1,12 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 𝙻𝙴𝙶𝙴𝙽𝙳 𝙱𝙾𝚃 ꜱʟ - 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝙄𝙎 𝘼 𝘾𝙊𝙋𝙔 𝙊𝙁 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝙇𝙀𝙂𝙀𝙉𝘿 𝙐𝙎𝙀𝙍𝘽𝙊𝙏. 𝙄 𝙀𝘿𝙄𝙏𝙀𝘿 𝙄𝙏 𝘼𝙎 𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙋𝙐𝙍𝙋𝙊𝙎𝙀𝙎. 𝙎𝙊 𝙄𝙁 𝙔𝙊𝙐 𝙇𝙄𝙆𝙀 𝙐𝙎𝙀 𝙄𝙏. </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/Itztonystark/J.A.R.V.I.S-BOT)
+[![𝙻𝙴𝙶𝙴𝙽𝙳 𝙱𝙾𝚃](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/Itztonystark/J.A.R.V.I.S-BOT)
 
 <h6 align="center">
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b> 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝙄𝙎 𝘼 𝘾𝙊𝙋𝙔 𝙊𝙁 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝙇𝙀𝙂𝙀𝙉𝘿 𝙐𝙎𝙀𝙍𝘽𝙊𝙏. 𝙄 𝙀𝘿𝙄𝙏𝙀𝘿 𝙄𝙏 𝘼𝙎 𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙋𝙐𝙍𝙋𝙊𝙎𝙀𝙎. 𝙎𝙊 𝙄𝙁 𝙔𝙊𝙐 𝙇𝙄𝙆𝙀 𝙐𝙎𝙀 𝙄𝙏. </b>
 </h6>
 
 <p align="center">
@@ -32,20 +33,8 @@
 <p align="left">
     <a href="https://github.com/Itztonystark/J.A.R.V.I.S-BOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Itztonystark/J.A.R.V.I.S-BOT/stargazers"><img src="https://img.shields.io/github/stars/Itztonystark/J.A.R.V.I.S-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Itztonystark/J.A.R.V.I.S-BOT"></a><p align="left"><a href="https://github.com/Itztonystark/J.A.R.V.I.S-BOT?"></a>
 
-------
-## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+<h3> 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 </h3>
 
-------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
-
-------------
-<h3> Dєρℓογ το нєяοκυ </h3>
-
-## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
@@ -57,7 +46,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/555d4067541482bb63d6e.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
@@ -95,21 +84,14 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-### Repl
+### Session
 
 
     -To Get Details Of StringSession Follow Step: 
 
-    - Go To Telegram And Search @UseTGXBot
-    - Click Start
-    - Send Ur Phone Number To @UseTGXBot
-    - U Received Code From Telegram Like This=VGFK0rHbzaF
-    - Copy Ur Code
-    - Paste Ur Code in @UseTGXBot
-    - U Received APP ID
-    - Now Run StringSession Given Below:
+    - Go To Telegram And Search @Session_Generator_Tony_Bot
+    - Or click the below image it will redirect you to the bot.
    
-
 [![String](https://te.legra.ph/file/85a68063ace8fd5a28596.jpg)](http://t.me/Session_Generator_Tony_Bot) 
 
     - Click On START button
