@@ -2,7 +2,7 @@
 <b> 𝙻𝙴𝙶𝙴𝙽𝙳 𝙱𝙾𝚃 ꜱʟ - 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝙄𝙎 𝘼 𝘾𝙊𝙋𝙔 𝙊𝙁 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝙇𝙀𝙂𝙀𝙉𝘿 𝙐𝙎𝙀𝙍𝘽𝙊𝙏. 𝙄 𝙀𝘿𝙄𝙏𝙀𝘿 𝙄𝙏 𝘼𝙎 𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙋𝙐𝙍𝙋𝙊𝙎𝙀𝙎. 𝙎𝙊 𝙄𝙁 𝙔𝙊𝙐 𝙇𝙄𝙆𝙀 𝙐𝙎𝙀 𝙄𝙏. </b>
 </h1>
 
-[![𝙻𝙴𝙶𝙴𝙽𝙳 𝙱𝙾𝚃](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/Itztonystark/J.A.R.V.I.S-BOT)
+[![𝙻𝙴𝙶𝙴𝙽𝙳 𝙱𝙾𝚃](https://te.legra.ph/file/51a430ebd5dd4a242d459.jpg)](https://github.com/Itztonystark/J.A.R.V.I.S-BOT)
 
 <h6 align="center">
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
