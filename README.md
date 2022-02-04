@@ -46,7 +46,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://te.legra.ph/file/555d4067541482bb63d6e.jpg)](https://heroku.com/deploy/)
+- [![Deploy]<center>(https://te.legra.ph/file/555d4067541482bb63d6e.jpg)](https://heroku.com/deploy/)</center>
 
 ## Deploy Locally
 
@@ -92,7 +92,7 @@
     - Go To Telegram And Search @Session_Generator_Tony_Bot
     - Or click the below image it will redirect you to the bot.
    
-[![String](https://te.legra.ph/file/85a68063ace8fd5a28596.jpg)](http://t.me/Session_Generator_Tony_Bot) 
+<center>[![String](https://te.legra.ph/file/85a68063ace8fd5a28596.jpg)](http://t.me/Session_Generator_Tony_Bot)</center> 
 
     - Click On START button
     - Click Telethon or Pyrogram.
